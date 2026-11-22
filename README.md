@@ -1,8 +1,8 @@
 # 🌱 Kebun Terakhir — Best Card Game
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/best-card-game-20261122-1826)
-[![make.fun](https://img.shields.io/badge/made%20for-make.fun-2e9e4f)](https://make.fun)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/abizarfd/best-card-game-20261122-v2/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/abizarfd/best-card-game-20261122-v2/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
 
 Duel kartu kebun 1 lawan 1 melawan **Ratu Hama**. Pertahankan kebun terakhir — tanam, panen, dan makan balik sebelum kebunmu habis.
 
