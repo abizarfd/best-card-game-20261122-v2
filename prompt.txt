@@ -1,0 +1,9 @@
+Prompt asal build ini (tugas dari parent agent, atas kata-kata Ahmad di chat):
+
+Ahmad: "Gass praktikan pelajaran yg diambil"
+
+Pelajaran yang dipraktikkan: dari Felix @Feljoy_ix (X) — kasih agent satu tugas jelas, suruh agent terus menatap tugas itu, update versi + upload berulang-ulang, cari segala cara buat skor tertinggi. Iterasi multi-varian jadi senjata utama.
+
+Tugas: bangun game kartu HTML5 BARU dari nol — varian C "Kebun Terakhir" (duel tukang kebun 1v1 vs AI): kartu tanaman/hama/cuaca, life = kesehatan kebun, kombo matahari+air menumbuhkan, hama memakan tanaman lawan, pagar melindungi. Judul submit konkret: "Kebun Terakhir".
+
+Kompetisi: best-card-game-20261122-1826 ("Best Card Game", pot $50, fee $0, deadline 13:26 WIB 23 Nov 2026). Varian 2 dari entri v1 "Jangkar Karam" yang sudah submit — v2 harus benar-benar mengalahkan v1, karena submit terakhir sebelum deadline yang dihitung.
